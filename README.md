@@ -1,5 +1,5 @@
 # SecretCodeGeneration
-Using java.security package
-Used:
------>Core Java Basics
------>NetBeans IDE
+#Using java.security package
+#Used:
+#----->Core Java Basics
+#----->NetBeans IDE
